@@ -1,4 +1,4 @@
-package com.fedorovs.service;
+package com.fedorovs.shop.service;
 
 import java.util.List;
 

@@ -1,11 +1,11 @@
-package com.fedorovs.util;
+package com.fedorovs.shop.util;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
-public final class RoutingUtills {
+public final class RoutingUtils {
 
     public static void forwardToFragment(String jspFragment, HttpServletRequest req, HttpServletResponse resp)
             throws ServletException, IOException {

@@ -4,4 +4,11 @@
 
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
+
+<!--  <session-config>-->
+<!--    <tracking-mode>COOKIE</tracking-mode>-->
+<!--    <session-timeout>30</session-timeout>-->
+<!--  </session-config>-->
 </web-app>
+
+

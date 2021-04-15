@@ -1,6 +1,6 @@
-package com.fedorovs.listener;
+package com.fedorovs.shop.listener;
 
-import com.fedorovs.service.ServiceManager;
+import com.fedorovs.shop.service.ServiceManager;
 
 import javax.servlet.ServletContextEvent;
 import javax.servlet.ServletContextListener;

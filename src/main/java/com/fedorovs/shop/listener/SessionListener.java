@@ -1,7 +1,7 @@
-package com.fedorovs.listener;
+package com.fedorovs.shop.listener;
 
-import com.fedorovs.service.BusinessService;
-import com.fedorovs.service.ServiceManager;
+import com.fedorovs.shop.service.BusinessService;
+import com.fedorovs.shop.service.ServiceManager;
 
 import javax.servlet.annotation.WebListener;
 import javax.servlet.http.HttpSessionEvent;
