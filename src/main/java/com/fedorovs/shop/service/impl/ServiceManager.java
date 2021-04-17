@@ -35,7 +35,7 @@ public class ServiceManager {
 	private final ProductService productService;
 	private final OrderService orderService;
 	private ServiceManager(ServletContext context) {
-		loadApplicationProperties();
+		loadApplicationProperties() ;
 		productService = new ProductServiceImpl();
 		orderService = new OrderServiceImpl();
 	}
